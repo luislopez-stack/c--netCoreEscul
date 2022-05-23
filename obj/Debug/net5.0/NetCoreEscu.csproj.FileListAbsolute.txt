@@ -1,0 +1,16 @@
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\bin\Debug\net5.0\NetCoreEscu.exe
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\bin\Debug\net5.0\NetCoreEscu.deps.json
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\bin\Debug\net5.0\NetCoreEscu.runtimeconfig.json
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\bin\Debug\net5.0\NetCoreEscu.runtimeconfig.dev.json
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\bin\Debug\net5.0\NetCoreEscu.dll
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\bin\Debug\net5.0\ref\NetCoreEscu.dll
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\bin\Debug\net5.0\NetCoreEscu.pdb
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\obj\Debug\net5.0\NetCoreEscu.csproj.AssemblyReference.cache
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\obj\Debug\net5.0\NetCoreEscu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\obj\Debug\net5.0\NetCoreEscu.AssemblyInfoInputs.cache
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\obj\Debug\net5.0\NetCoreEscu.AssemblyInfo.cs
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\obj\Debug\net5.0\NetCoreEscu.csproj.CoreCompileInputs.cache
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\obj\Debug\net5.0\NetCoreEscu.dll
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\obj\Debug\net5.0\ref\NetCoreEscu.dll
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\obj\Debug\net5.0\NetCoreEscu.pdb
+D:\Documents\VisualStudio2019Proyects\NetCoreEscu\obj\Debug\net5.0\NetCoreEscu.genruntimeconfig.cache
